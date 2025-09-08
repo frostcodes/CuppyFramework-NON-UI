@@ -1,0 +1,30 @@
+﻿AppType=JavaFX
+Build1=Default,punchline.tech.cuppy.framework
+Group=Cuppy Framework\Cuppy\Utilities
+Library1=javaobject
+Library2=jcore
+Library3=jfx
+Module1=CFAppUtility
+Module2=CFDataGeneratorUtility
+Module3=CFDataTypeUtility
+Module4=CFFileUtility
+Module5=CFMathUtility
+Module6=CFStringUtility
+NumberOfFiles=0
+NumberOfLibraries=3
+NumberOfModules=6
+Version=10.3
+@EndOfDesignText@
+#Region Project Attributes 
+'Copyright to Oluwaseyi Aderinkomi < Frost Codes >  - seyiaderinkomi@gmail.com
+
+#LibraryAuthor: Punchline Technologies
+#LibraryName: CuppyFramework NON UI
+#LibraryVersion: 1.035
+#End Region
+
+Sub Process_Globals
+
+End Sub
+ 
+ 
